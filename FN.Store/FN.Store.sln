@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FN.Store.UI.Web", "FN.Store
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FN.Store.Api", "FN.Store.Api\FN.Store.Api.csproj", "{12CAFDBD-D900-48A5-B273-DAFA34FFDD9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FN.Store.WCFData", "FN.Store.WCFData\FN.Store.WCFData.csproj", "{E64341E7-9ED8-42B8-9B6D-7D1AD197CA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FN.Store.WCFData.CLI", "FN.Store.WCFData.CLI\FN.Store.WCFData.CLI.csproj", "{2318DD90-043A-40C3-A456-5765022F2BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{12CAFDBD-D900-48A5-B273-DAFA34FFDD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CAFDBD-D900-48A5-B273-DAFA34FFDD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CAFDBD-D900-48A5-B273-DAFA34FFDD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64341E7-9ED8-42B8-9B6D-7D1AD197CA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64341E7-9ED8-42B8-9B6D-7D1AD197CA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64341E7-9ED8-42B8-9B6D-7D1AD197CA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64341E7-9ED8-42B8-9B6D-7D1AD197CA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2318DD90-043A-40C3-A456-5765022F2BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318DD90-043A-40C3-A456-5765022F2BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318DD90-043A-40C3-A456-5765022F2BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318DD90-043A-40C3-A456-5765022F2BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
